@@ -1,10 +1,3 @@
-Understood 👍
-You want **ONLY a GitHub README file**, **no implementation code**, but describing **all HelioX features, architecture, workflow, and modules** clearly.
-
-Below is a **clean professional README.md** you can directly paste into GitHub.
-
----
-
 # HelioX RAG 2.1
 
 ### Retrieval-Governed Multi-Agent Reasoning Engine
@@ -497,13 +490,3 @@ Planned improvements include:
 MIT License
 
 ---
-
-If you want, I can also generate:
-
-* **HelioX full repository structure**
-* **PRD document for the project**
-* **Pitch deck architecture explanation**
-* **HelioX research-paper style documentation**
-* **Production architecture diagram**
-
-Just tell me.
