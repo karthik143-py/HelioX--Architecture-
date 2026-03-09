@@ -8,6 +8,9 @@ Unlike traditional RAG systems that rely purely on vector similarity, HelioX int
 
 The system separates **data ingestion** from **query reasoning**, allowing scalable and high-confidence knowledge retrieval.
 
+# Architecture Diagram-
+https://miro.com/app/board/uXjVG5Z7e8A=/?share_link_id=764260322355
+
 ---
 
 # Core Objectives
